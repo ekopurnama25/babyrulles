@@ -16,8 +16,8 @@ const Home: React.FC = () => {
                 alt=""
               />
               <h1 className="fantasy-text-menus text-1xl font-bold text-justify max-[780px]:text-[9px] max-[780px]:flex max-[780px]:m-10 max-[780px]:justify-center max-[780px]:text-center  text-[#4b5563]">
-                Baby Rulles is a puppy who was born from Rulles. He loves
-                playing with his mother and owner. Baby Rulles is also a
+                Baby Russell is a puppy who was born from Russell. He loves
+                playing with his mother and owner. Baby Russell is also a
                 character who is smart in making works such as painting and
                 makes everyone happy. He also likes playing throwing balls with
                 his other dog friends. .
@@ -43,11 +43,11 @@ const Home: React.FC = () => {
                 </div>
                 <div className="text-center m-4">
                   <h1 className="fantasy-text-true text-justify">
-                    Currently the baby rulles is on the base network, many
-                    people have bought the baby rulles in the development of
+                    Currently the baby Russell is on the base network, many
+                    people have bought the baby Russell in the development of
                     crypto baby rule is something that can make someone rich in
                     a short time. We have also collaborated with many investors
-                    to encourage the baby rulles, come on, what are you up to?
+                    to encourage the baby Russell, come on, what are you up to?
                     This wait will go to the moon in a short time, let's buy
                     baby rules.
                   </h1>
